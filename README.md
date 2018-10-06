@@ -1,8 +1,8 @@
 # SMP-Risk-Analysis
-Analysis of the Risk involved in Stock Market Predictions, by varied methods.
+The work here, mainly aims for:
 
 1. Comparative analysis of the effectiveness of different prediction algorithms on stock market data
 
-2. Get general insight on this data through visualization
+2. Getting general insight on this data through visualization
 
-3. Predict future stock behavior and value at risk for each stock.
+3. Predicting future stock behavior and value at risk for each stock.
