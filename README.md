@@ -6,3 +6,5 @@ The work here, mainly aims for:
 2. Getting general insight on this data through visualization
 
 3. Predicting future stock behavior and value at risk for each stock.
+
+### Risk Analysis is very important, for stock market prediction.
