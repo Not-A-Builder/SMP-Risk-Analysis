@@ -8,3 +8,5 @@ The work here, mainly aims for:
 3. Predicting future stock behavior and value at risk for each stock.
 
 ### Risk Analysis is very important, for stock market prediction.
+
+#### Hence, here we are taking a look at the different ways to quantify risk.
