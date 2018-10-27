@@ -9,4 +9,4 @@ The work here, mainly aims for:
 
 ### Risk Analysis is very important, for stock market prediction.
 
-#### Hence, here we are taking a look at the different ways to quantify and decrease risk that is invloved in stock market predictions.
+#### Hence, here we are taking a look at the different ways to quantify and decrease risk that is involved in stock market predictions.
